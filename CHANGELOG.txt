@@ -1,0 +1,7 @@
+Change Log
+==========
+
+0.0.3(29/03/2024)
+-----------------
+- Third Release
+-- Added Arithmetic Operations on Binary
