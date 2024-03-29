@@ -1,1 +1,15 @@
-This library is a simple use to play with arithmatic operations
+**A simple library to use arithmetic operations** listed below
+- addition
+- subtraction
+- multiplication
+- division
+- absolute
+- factorial
+- power
+- square root
+- modulus
+- LCM
+- GCD
+- prime number
+- even number
+- odd number
