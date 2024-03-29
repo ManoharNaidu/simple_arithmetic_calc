@@ -10,7 +10,7 @@ classifiers = [
  
 setup(
   name='simple_arthmetic_calc',
-  version='0.0.3',
+  version='0.1.0',
   description='Arithmetic Operations on Decimal and Binary numbers.',
   long_description=open('README.md').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',  
