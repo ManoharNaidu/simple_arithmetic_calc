@@ -10,7 +10,7 @@ classifiers = [
  
 setup(
   name='simple_arthmetic_calc',
-  version='0.0.1',
+  version='0.0.2',
   description='Arithmetic calculator with basic functions like addition, subtraction, multiplication, division, factorial, power, square root, modulus, LCM, GCD, prime number, even number, odd number.',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',  
